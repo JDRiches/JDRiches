@@ -1,4 +1,4 @@
-# Jack here! 👋
+# Hey! 👋
 
 ### 🔬Using this as a place to upload all of the stuff I'm learning/practising!🔬
 
