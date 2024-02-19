@@ -6,7 +6,7 @@ Stuff I'm interested in:
 
 - 🌐 Web Application and API Development
 - ☁️ Cloud Architecture and Engineering
-- ⌨️ Python, Go, Javascrict etc... 
+- ⌨️ Python, Go, Javascript etc... 
 
 <!---
 JDRiches/JDRiches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
