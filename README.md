@@ -1,6 +1,6 @@
 # Hey! 👋
 
-### 🔬Using this as a place to upload all of the stuff I'm learning/practising!🔬
+### Using this as a place to upload all of the stuff I'm learning/practising
 
 Stuff I'm interested in: 
 
